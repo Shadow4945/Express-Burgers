@@ -20,4 +20,4 @@ app.get('/:viewname', function(req,res){
   });
 });
 
-app.listen(4000);
+app.listen(3000);

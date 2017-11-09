@@ -27,58 +27,58 @@
         }
     ],
     
-    "sides": {
-        "item1": {
+    "sides": [
+        {
             "name": "Fries",
             "image": "./pictures/side/fries",
             "description": "A Nice Side of Fries!"
         },
-        "item2": {
+        {
             "name" : "Tots",
             "image" : "./pictures/side/tots",
             "description" : "Gotta Love Them Tots!"
         },
-        "item3": {
+        {
             "name" : "Onion Rings",
             "image" : "./pictures/side/rings",
             "description" : "Golden Brown Onion Rings!"
         },
-        "item4": {
+        {
             "name" : "Chili Fries",
             "image" : "./pictures/side/chilifries",
-            "description" : "A Serving of Fries coverd with Chili and Cheese!"
+            "description" : "A Serving of Fries covered with Chili and Cheese!"
         },
-        "item5": {
+        {
             "name" : "Cheese Sticks",
             "image" : "./pictures/side/sticks",
             "description" : "A Nice Serving of Mozzeralla Cheese Sticks"
         }
-    },
-    "dessert" : {
-        "item1": {
+    ],
+    "dessert": [
+        {
             "name" : "Vanilla Cone",
             "image" : "./pictures/dessert/cone",
-            "description" : "A Vinilla Cone!"
+            "description" : "A Vanilla Cone!"
         },
-        "item2": {
+        {
             "name" : "Hot Fudge Sundae",
             "image" : "./pictures/dessert/sundae",
             "description" : "A Hot fudge Sundae!"
         },
-        "item3": {
+        {
             "name" : "Snickers Bar Shake",
             "image" : "./pictures/dessert/snikersshake",
             "description" : "A shake with bits of Snickers bar!"
         },
-        "item4": {
+        {
             "name" : "Strawberry Shake",
             "image" : "./pictures/dessert/strawberryshake",
             "description" : "A Strawberry Shake!"
         },
-        "item5": {
+        {
             "name" : "Mint Shake",
             "image" : "./pictures/dessert/mintshake",
             "description" : "A Cooling Mint Shake!"
         }
-    }
+    ]
 }

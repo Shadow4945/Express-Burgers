@@ -1,0 +1,8 @@
+extends layout
+
+block content
+    each item in menu.sides
+        div(class="menu_item")
+        p #{item.name}
+        img(src=item.image)
+        p #{item.description}

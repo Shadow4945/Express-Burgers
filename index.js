@@ -18,6 +18,12 @@ app.get('/', function(req,res){
 app.get('/:viewname', function(req,res){
   res.render(req.params.viewname, {
     "title": req.params.viewname,
+  });
+});
+
+app.get('/menu/:viewname', function(req,res){
+  res.render(req.params.viewname,{
+    "title": req.params.viewname,
     "menu": menu
   });
 });

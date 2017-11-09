@@ -2,27 +2,27 @@
     "burger": [
         {
             "name" : "Single 1/4 Pounder",
-            "image": "./pictures/entre/single",
+            "image": "../pictures/entre/single.jpg",
             "description": "A Single quarter pounder with cheese!"
         },
         {
             "name": "Double 1/4 Pounder",
-            "image": "./pictures/entre/double",
+            "image": "../pictures/entre/double.jpg",
             "description": "A Double quarter pounder with cheese!"
         },
         {
             "name": "Single 1/4 Pounder With Bacon",
-            "image": "./pictures/entre/baconburger",
+            "image": "../pictures/entre/baconburger.jpg",
             "description": "A Single 1/4 pounder with bacon!"
         },
         {
             "name": "The Western",
-            "image": "./pictures/entre/western",
+            "image": "../pictures/entre/western.jpg",
             "description": "A Single quarter pounder with bacon and onion ring"
         },
         {
             "name": "Chicken",
-            "image": "./pictures/entre/chicken",
+            "image": "../pictures/entre/chicken.jpg",
             "description": "A Chicken sandwich"
         }
     ],
@@ -30,54 +30,54 @@
     "sides": [
         {
             "name": "Fries",
-            "image": "./pictures/side/fries",
+            "image": "../pictures/side/fries.jpg",
             "description": "A Nice Side of Fries!"
         },
         {
             "name" : "Tots",
-            "image" : "./pictures/side/tots",
+            "image" : "../pictures/side/tots.jpg",
             "description" : "Gotta Love Them Tots!"
         },
         {
             "name" : "Onion Rings",
-            "image" : "./pictures/side/rings",
+            "image" : "../pictures/side/rings.jpg",
             "description" : "Golden Brown Onion Rings!"
         },
         {
             "name" : "Chili Fries",
-            "image" : "./pictures/side/chilifries",
+            "image" : "../pictures/side/chilifries.jpg",
             "description" : "A Serving of Fries covered with Chili and Cheese!"
         },
         {
             "name" : "Cheese Sticks",
-            "image" : "./pictures/side/sticks",
+            "image" : "../pictures/side/sticks.jpg",
             "description" : "A Nice Serving of Mozzeralla Cheese Sticks"
         }
     ],
     "dessert": [
         {
             "name" : "Vanilla Cone",
-            "image" : "./pictures/dessert/cone",
+            "image" : "../pictures/dessert/cone.jpg",
             "description" : "A Vanilla Cone!"
         },
         {
             "name" : "Hot Fudge Sundae",
-            "image" : "./pictures/dessert/sundae",
+            "image" : "../pictures/dessert/sundae.jpg",
             "description" : "A Hot fudge Sundae!"
         },
         {
             "name" : "Snickers Bar Shake",
-            "image" : "./pictures/dessert/snikersshake",
+            "image" : "../pictures/dessert/snikersshake.jpg",
             "description" : "A shake with bits of Snickers bar!"
         },
         {
             "name" : "Strawberry Shake",
-            "image" : "./pictures/dessert/strawberryshake",
+            "image" : "../pictures/dessert/strawberryshake.jpg",
             "description" : "A Strawberry Shake!"
         },
         {
             "name" : "Mint Shake",
-            "image" : "./pictures/dessert/mintshake",
+            "image" : "../pictures/dessert/mintshake.jpg",
             "description" : "A Cooling Mint Shake!"
         }
     ]

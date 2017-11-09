@@ -1,0 +1,44 @@
+{
+    "burger": {
+        "item1":{
+        "name" : "Single 1/4 Pounder",
+        "image": "./pictures/entre/single",
+        "descrption": "A Single quarter pounder with cheese!"
+        },
+        "item2": {
+            "name": "Double 1/4 Pounder",
+            "image": "./pictures/entre/double",
+            "description": "A Double quarter pounder with cheese!"
+        },
+        "item3": {
+            "name": "Single 1/4 Pounder With Bacon",
+            "image": "./pictures/entre/baconburger",
+            "description": "A Single 1/4 pounder with bacon!"
+        },
+        "item4": {
+            "name": "The Western",
+            "image": "./pictures/entre/western",
+            "description": "A Single quarter pounder with bacon and onion ring"
+        },
+        "item5": {
+            "name": "Chicken",
+            "image": "./pictures/entre/chicken",
+            "description": "A Chicken sandwich"
+        }
+    },
+    
+    "sides": {
+        "item1": {
+            "name": "",
+            "image": "",
+            "description": ""
+        }
+    },
+    "dessert" : {
+        "item1": {
+            "name" : "",
+            "image" : "",
+            "description" : ""
+        }
+    }
+}

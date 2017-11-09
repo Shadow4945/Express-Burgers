@@ -2,4 +2,6 @@ extends layout
 
 block content
   p This is the menu page!
-  img.className#IdName(src="/public/pictures/entre/download.jpg" alt="burger1")
+  each item in menu.burger
+    div(class="menu_item")
+      p #{item.name}

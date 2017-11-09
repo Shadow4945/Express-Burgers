@@ -3,7 +3,7 @@
         "item1":{
         "name" : "Single 1/4 Pounder",
         "image": "./pictures/entre/single",
-        "descrption": "A Single quarter pounder with cheese!"
+        "description": "A Single quarter pounder with cheese!"
         },
         "item2": {
             "name": "Double 1/4 Pounder",
@@ -46,7 +46,7 @@
         "item4": {
             "name" : "Chili Fries",
             "image" : "./pictures/side/chilifries",
-            "description" : "A Serving of Fries coverd with Chili and Cheese!"
+            "description" : "A Serving of Fries covered with Chili and Cheese!"
         },
         "item5": {
             "name" : "Cheese Sticks",
@@ -58,7 +58,7 @@
         "item1": {
             "name" : "Vanilla Cone",
             "image" : "./pictures/dessert/cone",
-            "description" : "A Vinilla Cone!"
+            "description" : "A Vanilla Cone!"
         },
         "item2": {
             "name" : "Hot Fudge Sundae",
@@ -68,7 +68,7 @@
         "item3": {
             "name" : "Snickers Bar Shake",
             "image" : "./pictures/dessert/snikersshake",
-            "description" : "A shake with bits of Snikers bar!"
+            "description" : "A shake with bits of Snickers bar!"
         },
         "item4": {
             "name" : "Strawberry Shake",

@@ -38,6 +38,7 @@ div{
  }
 .menu_item:hover{
      opacity:1;
+     transform: scale(1.1);
  }
  
  header {

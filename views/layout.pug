@@ -2,18 +2,18 @@ doctype html
 html
   head
     title #{title}
-    nav
-      ul
-        li
-          a(href="index") Home
-        li
-          a(href="menu") Menu
-        li
-          a(href="directions") Directions
-  body
-    background-image: url(Express-Burgers/public/pictures/Background.jpg)
     header
-      h1 #{title}
+      nav
+       ul
+          li
+            a(href="index") Home
+          li
+            a(href="menu") Menu
+          li
+           a(href="directions") Directions
+    link(href='../css/style.css', rel='stylesheet')      
+  body        
+    h1 #{title}
     block content
     footer
     

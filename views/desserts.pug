@@ -3,6 +3,10 @@ extends layout
 block content
     each item in menu.dessert
         div(class="menu_item")
-        p #{item.name}
-        img(src=item.image)
-        p #{item.description}
+            
+            ul                
+                li  #{item.name}
+                img(src=item.image)            
+                li #{item.description}
+        br
+        br

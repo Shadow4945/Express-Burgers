@@ -20,6 +20,8 @@ html {
     border-style: solid;
     border-color: #000;
  }
+
+ 
  img:hover {
      width : auto;
      height: 350px;
@@ -40,6 +42,7 @@ div{
      opacity:1;
      transform: scale(1.1);
  }
+ 
  
  header {
      background:#a60a0a ;

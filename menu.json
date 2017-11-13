@@ -1,17 +1,17 @@
 {
     "burger": [
         {
-            "name" : "Single 1/4 Pounder",
+            "name" : "The Single",
             "image": "../pictures/entre/single.jpg",
-            "description": "A Single quarter pounder with cheese!"
+            "description": "A Single beef patty with cheese!"
         },
         {
-            "name": "Double 1/4 Pounder",
+            "name": "The Double",
             "image": "../pictures/entre/double.jpg",
-            "description": "A Double quarter pounder with cheese!"
+            "description": "A Double beef patty with cheese!"
         },
         {
-            "name": "Single 1/4 Pounder With Bacon",
+            "name": "The Quarter Pounder With Bacon",
             "image": "../pictures/entre/baconburger.jpg",
             "description": "A Single 1/4 pounder with bacon!"
         },
@@ -21,7 +21,7 @@
             "description": "A Single quarter pounder with bacon and onion ring"
         },
         {
-            "name": "Chicken",
+            "name": "The Bird",
             "image": "../pictures/entre/chicken.jpg",
             "description": "A Chicken sandwich"
         }
